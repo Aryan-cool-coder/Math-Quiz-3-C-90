@@ -1,0 +1,49 @@
+#output {
+    background: white;
+    border-radius: 10px;
+    border-top: 10px solid #AA4465;
+    padding: 10px;
+    float: none;
+    text-align: left;
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+    border-bottom: 2px solid black;
+}
+
+body {
+    background-image: url("background_gif.gif");
+    background-size: cover;
+    text-align: center;
+    
+}
+
+h1 {
+    background: linear-gradient(#e66465, #9198e5);
+    margin-left: 300px;
+    margin-right: 300.11111111px;
+    padding-bottom: 25.746493px;
+    text-align: center;
+    border-radius: 20px;
+    padding-top: 25.000000000001px;
+    border: 3px solid black;
+   
+}
+
+.l1 {
+    margin-top: 100px;
+    background-color: rgba(255, 255, 0,0.5);
+    border-radius: 10px;
+    border: 3px solid green;
+    margin-left: 350.9px;
+    margin-right: 350.9px;
+}
+
+input {
+    width: 30%;
+    border-radius: 4px;
+    height: 30px;
+}
+button {
+    width: 35%;
+    font-style: oblique;
+}
